@@ -289,3 +289,10 @@
     margin-bottom: 50px;
   }
 }
+
+.work__title {
+  display: flex;
+  align-items: center;  
+  color:#fff;
+  padding: 10px;
+}
