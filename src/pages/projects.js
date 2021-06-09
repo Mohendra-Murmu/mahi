@@ -35,6 +35,14 @@ export default function Projects() {
                          <div className="work__title">React Native Weather App</div>
                     </div>                    
                     </ExternalLink>
+                    <ExternalLink href='https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40darlin_g/Connect-with-People-98af0121ba1d490c9741bfffe711534f-signed.apk'>
+                    <div className="work__img">
+                        <img src="./connection.jpg"
+                         alt=""
+                         height="50px" />
+                         <div className="work__title">React Native Weather App</div>
+                    </div>                    
+                    </ExternalLink>
                 </div>
             </section>
             </>
