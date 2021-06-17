@@ -44,7 +44,7 @@ export default function About() {
                         >
                         I need a website
                         </Button>          
-                        <Button
+                       {/* <Button
                         variant="contained"
                         color="primary"
                         className={classes.button}
@@ -54,6 +54,7 @@ export default function About() {
                         >
                         Hire Me
                         </Button>          
+                        */}
                     </div>                                   
                 </div>
             </section>
